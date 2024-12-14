@@ -1,9 +1,9 @@
 # Dropdown
 
 ## Import
-In your JavaScript file
+In your bundler's entry point file
 ```js
-import 'dropdown';
+import '@jai-sanghvi/dropdown';
 ```
 
 ## Creating a dropdown

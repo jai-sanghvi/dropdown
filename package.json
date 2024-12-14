@@ -1,6 +1,6 @@
 {
-  "name": "dropdown",
-  "version": "1.0.0",
+  "name": "@jai-sanghvi/dropdown",
+  "version": "1.0.1",
   "description": "A module to enable dropdown functionality",
   "main": "index.js",
   "scripts": {
